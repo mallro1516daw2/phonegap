@@ -1,0 +1,62 @@
+.label {
+	font-size: 11px;
+    opacity: 0.5;
+}
+
+.overlay {
+	position: fixed;
+    overflow: hidden;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(45, 62, 80, 0.5);
+}
+
+.overlay .row {
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 20px;
+    text-align: center;
+}
+
+.overlay .row .button {
+    margin: 5px auto;
+    max-width: 75%;
+}
+
+.list {
+    list-style: none;
+    padding: 0;
+}
+
+.list__item {
+    position: relative;
+    padding: 10px;
+    border-bottom: 1px solid rgba(45, 62, 80, 0.3);
+}
+
+.list__item:first-of-type {
+    border-top: 1px solid rgba(45, 62, 80, 0.3);  
+}
+
+.list__item .list__text {
+	font-size: 14px;
+    padding: 0 20px;
+}
+
+.list__item .list__icon {
+    position: absolute;
+    top: 50%;
+    margin-top: -8px;
+    font-size: 16px;
+}
+
+.list__item .list__icon--check {
+    left: 0;
+}
+
+.list__item .list__icon--delete {
+    right: 0;
+}

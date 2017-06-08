@@ -1,0 +1,8 @@
+title: To-Do App with SQLite
+slug: sample-sqlite
+page_title: To-Do Sample App with SQLite | Apache Cordova Sample | Telerik Platform
+description: This sample shows you how to use the Brodysoft SQLite Apache Cordova plug-in to create a to-do app. You can add and delete items.
+tags: Apache Cordova, iOS, Android, Windows Phone, SQLite, Apache Cordova, to-do
+content_filter: true
+apis: cordova.sqlite cordova.sqlite.openDatabase cordova.sqlite.transaction cordova.sqlite.executeSQL
+previous_url: /sample-sqlite

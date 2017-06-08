@@ -1,0 +1,47 @@
+{
+  "ProjectGuid": "986c0b61-e032-4bb5-9b62-efafc0e98ab9",
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "AppIdentifier": "com.telerik.samplesqlite",
+  "ProjectName": "sample-sqlite",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "iOSStatusBarStyle": "Default",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "AndroidHardwareAcceleration": "true",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "FrameworkVersion": "6.4.0",
+  "CorePlugins": [
+    "com.phonegap.plugins.sqlite@1.1.0",
+    "cordova-plugin-splashscreen",
+    "cordova-plugin-whitelist"
+  ],
+  "DisplayName": "Sqlite",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_HD720P",
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA"
+  ],
+  "Author": "",
+  "WP8Publisher": "",
+  "WP8TileTitle": "",
+  "WP8Capabilities": [],
+  "iOSBackgroundMode": [],
+  "WP8Requirements": [],
+  "Description": "sample-sqlite",
+  "Framework": "Cordova",
+  "projectVersion": 1,
+  "WP8PublisherID": "{9b59ffbc-f40c-4f7a-8ddb-a9024601e9f5}",
+  "WP8ProductID": "{71c166d2-1c24-4057-9c75-0adbbd77d9dc}",
+  "WP8PackageIdentityName": "1234Telerik.com.telerik.samplesqlite",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WPSdk": "8.1"
+}
